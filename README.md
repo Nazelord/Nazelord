@@ -14,7 +14,6 @@ I am excited to connect with like-minded professionals and explore opportunities
 ## Follow me onz:
 
 [![YouTube](https://img.shields.io/badge/YouTube-Nazelord-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@nazelord_dj)
-</br>
 [![Twitch](https://img.shields.io/badge/Twitch-Nazelord-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/nazelord)
 </br>
 [![Twitter](https://img.shields.io/badge/Twitter-@Nazelord-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/mouredev)
