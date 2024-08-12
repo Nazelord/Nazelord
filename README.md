@@ -11,7 +11,7 @@ As the President of InnovatoSphere, I am dedicated to transforming STEM educatio
 
 I am excited to connect with like-minded professionals and explore opportunities where I can contribute my diverse skills and experience to drive innovation and shape the future of technology.
 
-## Follow me onz:
+## Follow me on:
 
 [![YouTube](https://img.shields.io/badge/YouTube-Nazelord-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@nazelord_dj)
 [![Twitch](https://img.shields.io/badge/Twitch-Nazelord-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/nazelord)
