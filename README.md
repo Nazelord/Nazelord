@@ -1,7 +1,7 @@
 # Hey, my name is Carlos Sanchez 👋
 ### IT Technician | Full Stack Dev | Sales Executive | Robotics | Event Organizer | Project Manager
 
-![https://github.com/mouredev](./mouredev_github_profile.png)
+![https://github.com/nazelord](./nazelord_github_profile.png)
 
 I am a versatile professional with a passion for innovation and entrepreneurship. With experience in robotics, drones, consulting, and innovation, I have developed a strong background in promoting cutting-edge solutions and inspiring young minds. 
 
