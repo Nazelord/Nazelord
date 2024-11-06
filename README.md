@@ -11,6 +11,8 @@ As the President of InnovatoSphere, I am dedicated to transforming STEM educatio
 
 I am excited to connect with like-minded professionals and explore opportunities where I can contribute my diverse skills and experience to drive innovation and shape the future of technology.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)]
+
 ## Follow me on:
 
 [![YouTube](https://img.shields.io/badge/YouTube-Nazelord-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@nazelord_dj)
